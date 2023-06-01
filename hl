@@ -1,0 +1,23 @@
+[ 
+      { 
+        "league":"Premier League",
+      "HomeImg":"https://mygoaltv.xyz//team/sassuolo.png",
+      "HomeTitle":"https://mizzima-live.b-cdn.net/live2_720.m3u8",
+      "HomeGoal":"2",
+       "AwayTitle":"https://mizzima-live.b-cdn.net/live2_720.m3u8",
+       "AwayImg":"https://mygoaltv.xyz//team/Fiorentina.png",
+        "AwayGoal":"1",
+        "Highlight_link":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+      },
+      { 
+        "league":"Premier League",
+      "HomeImg":"https://mygoaltv.xyz//team/sassuolo.png",
+      "HomeTitle":"https://mizzima-live.b-cdn.net/live2_720.m3u8",
+      "HomeGoal":"2",
+       "AwayTitle":"https://mizzima-live.b-cdn.net/live2_720.m3u8",
+       "AwayImg":"https://mygoaltv.xyz//team/Fiorentina.png",
+        "AwayGoal":"1",
+        "Highlight_link":"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+      }
+      
+        ]
